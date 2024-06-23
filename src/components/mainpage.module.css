@@ -1,0 +1,112 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Brygada+1918:ital,wght@0,400..700;1,400..700&family=Overpass:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Agbalumo&display=swap');
+
+
+
+
+
+*{
+  box-sizing: border-box;
+    margin:0px;
+    padding: 0px;
+  
+    
+    
+  }
+  
+ 
+
+  .cont{
+
+    width: 100%;
+    height: 100vh;
+  overflow: hidden;
+  background-image: url("../assets/styles/l-intro-1618958175.jpg");
+  background-size:cover;
+  background-repeat: no-repeat;
+
+  }
+
+
+
+ 
+
+
+.container{
+  width: 500px;
+  height: 150px;
+  margin-left: 394px;
+  margin-top: 202px;
+  border-radius: 45px;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  align-content: center;
+  align-items: center;
+  justify-content: center;
+  background-color: rgba(74, 74, 74, 0.015);
+  border-left: 2px solid rgb(208 207 207 / 56%);
+  border-top: 1px solid rgb(201 196 196 / 56%);
+  border-bottom: 7px solid rgb(216 211 211 / 56%);
+  border-right: 1px solid rgb(171 163 163 / 56%);
+  /* backdrop-filter: blur(2px); */
+  box-shadow: 6px 10px 26px  #ffffffbd;
+
+  font-family: "Brygada 1918", serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+}
+.container:hover{
+  width: 500px;
+  height: 150px;
+  margin-left: 394px;
+  margin-top: 202px;
+  border-radius: 45px;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  align-content: center;
+  align-items: center;
+  justify-content: center;
+ 
+  border-left: 2px solid rgb(208 207 207 / 56%);
+  border-top: 1px solid rgb(201 196 196 / 56%);
+  border-bottom: 7px solid rgb(216 211 211 / 56%);
+  border-right: 1px solid rgb(171 163 163 / 56%);
+  /* backdrop-filter: blur(2px); */
+  box-shadow: 6px 10px 26px  #ffffffbd;
+
+  font-family: "Brygada 1918", serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+}
+
+.container h1{
+  color: rgb(37, 47, 230);
+  position: relative;
+  top: -20px;
+  left: -19px;
+  
+  font-family: "Agbalumo", system-ui;
+  font-weight: 400;
+  font-style: normal
+  
+  
+
+  
+  
+}
+
+
+
+
+.buttonbar{
+  margin-left: -9px;
+  margin-right: 12px;
+  
+}
+
+
